@@ -1,6 +1,8 @@
-# :wave: The Basics of GitHub 
+# :wave: This is Adir Adam's Repo
 
-## 🤓 Course overview and learning outcomes 
+Leave right this instance. I will not allow visitors into my domain. 
+
+## 🤓 This is You Right Now
 
 The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
 
